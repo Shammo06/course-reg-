@@ -1,0 +1,28 @@
+.card{
+    width: 300px;
+    height: 450px;
+    border-radius: 12px;
+    background: #FFF;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.value{
+    display:flex;
+    justify-content: space-between;
+    
+}
+button{
+    width:280px;
+    height:40px;
+    color:white;
+    border-radius: 8px;
+    border: 1px solid #2F80ED;
+}
+img{
+    width:280px;
+    height:144px;
+    padding-top: 10px;
+}
+

@@ -1,0 +1,31 @@
+#root {
+  max-width: 1450px;
+  margin: 0 auto; 
+}
+body{
+  background: #F3F3F3;
+  
+}
+.title{
+  text-align: center;
+}
+.course-card{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.container{
+  display: flex;
+  
+
+}
+.reg-info{
+  width: 300px;
+  height:450px;
+  border-radius: 12px;
+  background: #FFF;
+  padding-left: 20px;
+}
+
+.course-rem{
+  color: blue;
+}
